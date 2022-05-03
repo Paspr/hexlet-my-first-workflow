@@ -1,2 +1,4 @@
-make say-hello
-Hello, World!
+# Makefile
+
+say-hello:
+	echo 'Hello, World!'
